@@ -12,4 +12,5 @@ class Product {
   });
 }
 ##trung
-  sua lai o dong 8,9 loi logic
+  sua lai o dong 8,9
+  khai bao sai
