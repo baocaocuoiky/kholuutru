@@ -2,7 +2,10 @@ import 'package:shoe_store/model/product.dart';
 
 class ProductsInCart extends Product{
   int size;
-  int quantity;
+  
+  //trung sua lai kieu du lieu
+  string quantity;
+ 
   ProductsInCart({
     required this.size,
     required this.quantity,
